@@ -20,16 +20,7 @@ faqBox.forEach(box=>{
              btn.src = '/assets/images/icon-plus.svg'
            }
 
-            // if(displayText[index].classList.contains('disappear')){
-            //     displayText[index].classList.toggle('appear')
-            //      btn.src = '/assets/images/icon-minus.svg'
-               
-            // }
-            // else if(displayText[index].classList.toggle('appear')){
-            //     displayText[index].classList.add('disappear')
-            //      btn.src = '/assets/images/icon-plus.svg'
-            // }
-            
+           
         })
     })
 })
