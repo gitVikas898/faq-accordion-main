@@ -130,12 +130,19 @@ section{
     color: var(--clr-Dark-purple);
     font-size: 15px;
 }
+.main-heading:hover{
+    color: #ad28eb;
+}
 .plus-icon{
-    padding-left:var(--padding-md)
+    padding-left:var(--padding-md);
+    cursor: pointer;
 }
 .star-icon{
     padding-right: var(--padding-sm);
+
+
 }
+
 @media (max-width:500px) {
     body{
         background-image: url("/assets/images/background-pattern-mobile.svg");
