@@ -80,6 +80,7 @@ section{
 }
 .appear{
     display: block;
+   
 }
 /* container styles */
 
@@ -110,8 +111,11 @@ section{
 .faq-div{
     /* border: 1px solid blue; */
     max-width: 34rem;
-    border-bottom:2px solid var(--clr-Light-pink) ;
+    
    
+}
+.faq-div-1{
+    border-bottom:2px solid var(--clr-Light-pink) ;
 }
 .question-box{
     display: flex;
